@@ -1,4 +1,4 @@
-# Python OOP Practice Projects
+# Python Practice Projects
 
 This repository contains beginner-to-intermediate Python projects built to practice OOP concepts.
 
